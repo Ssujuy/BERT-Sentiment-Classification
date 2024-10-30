@@ -10,7 +10,7 @@ This project implements a binary sentiment analysis classifier for IMDb movie re
 - [Data Filtering](#data-filtering)
 - [BERT Model Class](#bert-model-class)
 - [Training Function](#training-function)
-- [Validation](#validation-function)
+- [Validation Function](#validation-function)
 - [Main](#main)
 - [Result Analysis](#result-analysis)
 - [Conclusion](#conclusion)
